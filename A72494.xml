@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A piththy [sic] note to Papists all and some that ioy in Feltons martirdome Desiring them to read this and to iudge not in spite at simple trust to grudge. Set foorth by one that knew his life, and was with him at the houre of his death, which was the viii. of August. Anno. 1570. at the west end of Paules Churche ouer against the Bishops gate, where he set vp the Bul.</title>
+            <author>Knell, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72494</idno>
+            <idno type="STC">STC 15034</idno>
+            <idno type="STC">ESTC S124905</idno>
+            <idno type="EEBO-CITATION">99898656</idno>
+            <idno type="PROQUEST">99898656</idno>
+            <idno type="VID">173245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2025:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A piththy [sic] note to Papists all and some that ioy in Feltons martirdome Desiring them to read this and to iudge not in spite at simple trust to grudge. Set foorth by one that knew his life, and was with him at the houre of his death, which was the viii. of August. Anno. 1570. at the west end of Paules Churche ouer against the Bishops gate, where he set vp the Bul.</title>
+                  <author>Knell, Thomas.</author>
+               </titleStmt>
+               <extent>[18] p.   </extent>
+               <publicationStmt>
+                  <publisher>at the long shop adioyning vnto Saint Mildreds Church in the Pultrie the xxiii. of August by John Allde,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1570]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at ed: T. Knell. Iuni.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-B⁴ C¹.</note>
+                  <note>An 8⁰ in 4's.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Criminal behavior --  England --  Early works to 1800.</term>
+               <term>Treason --  England --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173245:1" rendition="simple:additions"/>
+            <p>¶ A PITHTHY NOTE to Papiſts all and ſome that ioy in Feltons Martirdome. Deſiring them to read this and to iudge &amp; not in ſpite at ſimple truth to grudge.</p>
+            <p>Set foorth by one that knew his life, and was with him at the houre of his death, which was the viii. of Auguſt. <hi>Anno. 1570,</hi> at the Weſt end of Paules Churche ouer aga<g ref="char:EOLhyphen"/>inſt the Biſhops gate, where he ſet vp the Bul.</p>
+            <p>
+               <hi>IMPRINTED AT LONDON</hi> at the long Shop adioining vnto Saint Mildreds Church in the Pultrie the xxiii. of Auguſt by John Allde.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:173245:2"/>
+            <pb facs="tcp:173245:2"/>
+            <l>
+               <seg rend="decorInit">L</seg>Ong leuitie abuſde, at le<g ref="char:cmbAbbrStroke">̄</g>gth dooth lend deſerued hire:</l>
+            <l>whe<g ref="char:cmbAbbrStroke">̄</g> mercy ouer moou'd with vice gins ki<g ref="char:cmbAbbrStroke">̄</g>dle Iuſtice ire.</l>
+            <l>¶ As now may wel diſcerned be Unto the ſmart of ſuch</l>
+            <l>As heaped by vnfruteful hope and pitie proou'd to much.</l>
+            <l>¶ But ſo it is when follyes flud makes wiſdom lowe at eb:</l>
+            <l>And where for harty looue ſuch doo winde vp foule Treaſons web.</l>
+            <l>¶ As <hi>Felton</hi> fond hath ſurely felt for fault of treaſon hye:</l>
+            <l>So all wil vouch whoſe hartꝭ (with <hi>God</hi> and <hi>Prince</hi>) are not awrie</l>
+            <l>¶ And as y<hi rend="sup">e</hi> 
+               <hi>Nortons</hi> twain did taſte of late for like offence:</l>
+            <l>Whom <hi>Iuſtcie</hi> paid by portion iuſt a righteous recompence.</l>
+            <l>¶ Yet <hi>Felton</hi> paſt, when wilful déed of his was wel deſcryed:</l>
+            <l>For why? he neuer bluſhe for ſhame, nor much the ſame denyed,</l>
+            <l>¶ The <hi>Bul</hi> bewitch this caluiſh braine And <hi>Pius</hi> his déer god:</l>
+            <l>Made him to bolde for his behoof, to taſte of ſuch a rod.</l>
+            <l>¶ He durſt preſume good <hi>Catholick,</hi> t'erect vp forraine power:</l>
+            <pb facs="tcp:173245:3"/>
+            <l>And <hi>Subiects</hi> faithful hartꝭ now wel by flattery to deuoure.</l>
+            <l>¶ As though at once all Engla<g ref="char:cmbAbbrStroke">̄</g>d would haue ſhru<g ref="char:cmbAbbrStroke">̄</g>k at <hi>Pius</hi> curſe:</l>
+            <l>And that the Childe at ſtrangers beck would leaue his painful nurſe.</l>
+            <l>¶ Thebleſſing of the <hi>Pope</hi> he thought would ſure haue take ſuch place:</l>
+            <l>That Engliſh men with Cap and knée would ſtraight the ſame imbrace.</l>
+            <l>¶ What ment be els to fix the <hi>Bul</hi> on <hi>Bishops</hi> Pallaice gate:</l>
+            <l>But that he thought by ſomes return to mend his owne eſtate.</l>
+            <l>¶ But Engliſh men <hi>God</hi> haue y<hi rend="sup">e</hi> praiſe wiſh rather his curſe ſtil:</l>
+            <l>Then with his bleſſing to receiue bothe ſoule and bodyes il.</l>
+            <l>¶ <hi>Gods</hi> curſe dooth light where he dooth bleſſe as <hi>Malachi</hi> dooth rel:</l>
+            <l>As <hi>Felton</hi> and and the reſt haue tried which ſeru'd the <hi>Pope</hi> ful wel.</l>
+            <l>¶ But <hi>Papiſts</hi> ſay they are moſte bleſt for dying in his cauſe:</l>
+            <l>Becauſe he wil their ſoules redéem from hel and <hi>Sathans</hi> clawes.</l>
+            <l>¶ And <hi>Felton</hi> chée fly they commend For his coragious minde:</l>
+            <l>Which vnto <hi>Pope</hi> and holy <hi>Church</hi> didſhew him ſelf ſo kinde,</l>
+            <pb facs="tcp:173245:3"/>
+            <l>¶ Wherfore a bleſſed <hi>Martyr</hi> they doo rightly him confeſſe:</l>
+            <l>Which mooues me moſte for vertues ſake to prooue him nothing leſſe.</l>
+            <l>¶ For eu'ry kinde of death dooth not deſerue a <hi>Martyrs</hi> name:</l>
+            <l>But many ſundry deaths doo bring the dyers endles ſhame</l>
+            <l>¶ All <hi>Theeues</hi> and <hi>Murderers</hi> that dye all <hi>Fellons</hi> caſt by law:</l>
+            <l>All <hi>Traitors</hi> and all <hi>Hereticks</hi> which <hi>GOD</hi> nor man doo <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</l>
+            <l>¶ Are not by death of theirs in count of <hi>Martyrs</hi> which doo dye:</l>
+            <l>Though <hi>Papiſts</hi> brag that he is one but giue them leaue to lye.</l>
+            <l>¶ The death dooth not the <hi>Martyr</hi> make but ſure the righteous cauſe: When <hi>Tirants</hi> force, the righteous hart to violate <hi>Gods</hi> lawes.</l>
+            <l>¶ When <hi>Infidelles</hi> depraue the truthe and <hi>Chriſtians</hi> it maintain:</l>
+            <l>In giuing of their bloods for it, they win the <hi>Martyrs</hi> gain.</l>
+            <l>¶ <hi>Ignatius</hi> wan the noble crown of martirdom y tho</l>
+            <l>
+               <hi>Caſſianus</hi> and <hi>Laurence</hi> they did win the ſame alſo.</l>
+            <l>¶ <hi>Saint Stephen</hi> and <hi>Saint Peter</hi> they wan <hi>Martyrs</hi> gain by right:</l>
+            <pb facs="tcp:173245:4"/>
+            <l>So did <hi>Maturus</hi> and the reſt that ſuffred for the light.</l>
+            <l>¶ whoſe liues by truthe were ſou<g ref="char:cmbAbbrStroke">̄</g>dly led whoſe ends did ſhew no leſſe:</l>
+            <l>whoſe ma<g ref="char:cmbAbbrStroke">̄</g>ers were vpright, whoſe faith did perfit looue expreſſe.</l>
+            <l>¶ But <hi>Feltons</hi> life did ſhew in fine he did no <hi>Martyrs</hi> fact:</l>
+            <l>For <hi>exitus acta probat</hi> the <hi>exit</hi> tries the act.</l>
+            <l>¶ A roiſting ſhifting <hi>Prodigall</hi> ſo he his time did ſpend:</l>
+            <l>Which ſought of eu'ry one to haue that able was to lend.</l>
+            <l>¶ The <hi>Pſalmiſt</hi> in his <hi>Pſalmes</hi> dooth pai<g ref="char:cmbAbbrStroke">̄</g>t out <hi>Felton</hi> very plain:</l>
+            <l>The wicked man borowes (ſaith he) and payeth not again.</l>
+            <l>¶ Of modeſtie in maners he was ſéen to be ful ſcant:</l>
+            <l>And of Religious minde no dout he had a dayly want,</l>
+            <l>¶ As for deuoutnes in his dayes yea, after his owne ſorte:</l>
+            <l>He neuer moild his ſprites with prayer, his hart was ſet on ſport.</l>
+            <l>¶ A <hi>Papiſts</hi> hart he had not ſure for <hi>Papiſts</hi> are deuout:</l>
+            <l>Although their zele doo knowledge lack in that they go about.</l>
+            <pb facs="tcp:173245:4"/>
+            <l>¶ For he ne zele ne knowledge had, but droue to ſpend the time:</l>
+            <l>He paſt not with what kinde of men nor of what kinde of cryme.</l>
+            <l>¶ So he by flattering might obtain to liue by others ſweat:</l>
+            <l>Ne <hi>Lands</hi> he had ne hands did ſéek to get the bread he eat.</l>
+            <l>¶ But héer &amp; there with <hi>Thraſoes</hi> brood the ſimple to deride:</l>
+            <l>But chéef a ſcoffer of <hi>Gods</hi> woord as often he was tride.</l>
+            <l>¶ A Pleſeme<g ref="char:cmbAbbrStroke">̄</g> right which ſeru'd y<hi rend="sup">e</hi> time though fed with Romiſh hope:</l>
+            <l>And now beholde the <hi>Saint</hi> he ſeru'd hath bleſt him with a Rope.</l>
+            <l>¶ A foole bewitcht he was of ſome who w<g ref="char:cmbAbbrStroke">̄</g>atcht the falling Skies.</l>
+            <l>And lookt for Larkes but purpoſe miſt his fleſh muſt féed the Flyes.</l>
+            <l>¶ An irreligious <hi>Traitor</hi> was this <hi>Felton,</hi> truſt me true:</l>
+            <l>A fit reſembler in our time of <hi>Eleazar</hi> the <hi>Iew.</hi>
+            </l>
+            <l>¶ Companion with <hi>Ichocanan</hi> nay <hi>Schimions</hi> equal mate:</l>
+            <l>Which ſought <hi>Iheruſalem</hi> to ſpoils by their diſcentious bate.</l>
+            <l>¶ And as for any ſigne that was in him of godly feare:</l>
+            <pb facs="tcp:173245:5"/>
+            <l>His moſte licencious life did ſhew his hart came neuer there.</l>
+            <l>¶ That his very end whereas he ſaw it would not bée:</l>
+            <l>But that he muſt as <hi>Traitor</hi> rank go ſcale the Gallow trée.</l>
+            <l>¶ Then fear of death gan prick his fleſh whiche wicked men dooth touch:</l>
+            <l>Whe<g ref="char:cmbAbbrStroke">̄</g> their ſleauſe, their co<g ref="char:cmbAbbrStroke">̄</g>ſcſe<g ref="char:cmbAbbrStroke">̄</g>ce pricks and burthens them comuch.</l>
+            <l>¶ As <hi>Caïn</hi> and <hi>Iudas</hi> ouer fraid with <hi>Gods</hi> eternal ire:</l>
+            <l>Yet ſome wil ſay that <hi>Felton</hi> did <hi>Gods</hi> mercy then deſire.</l>
+            <l>¶ In déed in Popiſh ſort he ſhewd him ſelf then to telent:</l>
+            <l>But who can ſay he ſhewd ſuch faith as made him right repent?</l>
+            <l>¶ Of wandring faith he ſhewd ſo<g ref="char:cmbAbbrStroke">̄</g>e taffe as <hi>Papiſts</hi> vſe to holde:</l>
+            <l>That <hi>Chriſte</hi> their ſauior is in parte, but faith was not (be bolde)</l>
+            <l>¶ In him that made him then to ſay <hi>Chriſte</hi> is my ſauiour:</l>
+            <l>Ne that he truſted only ſure ſaluation by his power.</l>
+            <l>¶ Ne cald he back his ſclandero' woords, he ſpake againſt <hi>Gods</hi> truthe:</l>
+            <l>Ne did gainſay his traiterous blaſt before bothe age and youth.</l>
+            <pb facs="tcp:173245:5"/>
+            <l>¶ Which he had ſpoke agaiſt our <hi>Queen</hi> before in Iudgement hall:</l>
+            <l>But only for this fact heer doon, her mercy I doo call.</l>
+            <l>¶ (ſaid he) for this offence of mine héer doon that ſhe forgiue:</l>
+            <l>But from the reſt againſt her power and Throne he did not méene.</l>
+            <l>¶ He had before denide her grace our lawful <hi>Queen</hi> to bée:</l>
+            <l>And of her <hi>Supreme</hi> power (he ſaid) ſhe ought not haue it ſhée.</l>
+            <l>¶ Oh traiterous hart, oh <hi>Martyr</hi> vile, ſuch <hi>Martyrs</hi> now a dayes:</l>
+            <l>Would fain be made to Morter thin to ſtop the hollow wayes.</l>
+            <l>¶ He neuer once relented this not once before his death:</l>
+            <l>But as malicious <hi>Traitor,</hi> he on <hi>Gallows</hi> gaue his breth.</l>
+            <l>¶ Wheras he ſaid in midſt <hi>Guilde Hall,</hi> before the Iudgement ſeat:</l>
+            <l>That they might wel his body take, but more they could not get.</l>
+            <l>¶ For why? his ſoule he had commit vnto his hollow hope:</l>
+            <l>To <hi>Ieſus Chriſte?</hi> to him think yée? nay to his dad the <hi>Pope.</hi>
+            </l>
+            <l>¶ Oh <hi>Traitor</hi> bolde to <hi>Chriſte</hi> God oh prowd blaſphemou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ung:</l>
+            <pb facs="tcp:173245:6"/>
+            <l>That euer popiſh ignorance ſhould reſt in olde or yung.</l>
+            <l>¶ whe<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Chriſte</hi> hath ſhed his déereſt blood when <hi>Chriſtes</hi> hart was rent:</l>
+            <l>When <hi>Chriſte</hi> hath paid the price for vs his Father to content.</l>
+            <l>¶ Shall we once dare alas to ſay, when other name is none:</l>
+            <l>But <hi>Ieſus Chriſte</hi> to ſaue our ſoules by his déer death alone?</l>
+            <l>¶ That <hi>Pius Pope</hi> our ſoules can ſaue which can not ſaue him ſelf:</l>
+            <l>But yéeld his power to mortal death oh blinded Romiſh elf.</l>
+            <l>¶ Was <hi>Paule</hi> for vs once crucified? was <hi>Mary, Mark</hi> or <hi>Iohn?</hi>
+            </l>
+            <l>No, no, it was our <hi>Ieſus Chriſte</hi> to whom be praiſe alone.</l>
+            <l>¶ But <hi>Papiſts</hi> make of him leaſt count, which took the greateſt pain:</l>
+            <l>And all their truſt is ſtil in them that giue the ſmalleſt gain.</l>
+            <l>¶ If <hi>Felton</hi> had thoſe woordꝭ denied, though euen at the laſt end:</l>
+            <l>I would haue ſaid and many mo, he had been <hi>Chriſtes</hi> fréend.</l>
+            <l>¶ His death was nothing <hi>Martir</hi> like, he died a <hi>Papiſt</hi> blinde:</l>
+            <l>An Enemy to <hi>Chriſte</hi> and <hi>Queen,</hi> a Monſter out of kinds.</l>
+            <pb facs="tcp:173245:6"/>
+            <l>¶ A new ſtert by <hi>Heroſtratus,</hi> to get himſelf a name:</l>
+            <l>Though that his déed and end ſhalbe ay to his endles ſhame.</l>
+            <l>¶ For as the fame of Godly men ſhall ouerliue the graue:</l>
+            <l>So Fame dooth yéeld to wicked men the right that they ſhould haue.</l>
+            <l>¶ So long as <hi>Guilde Hall</hi> dooth remain, there ſhall remain like wiſe:</l>
+            <l>A memory of <hi>Feltons</hi> facts, before all peoples eyes.</l>
+            <l>¶ <hi>Iohn Felton Traitor</hi> which denied the <hi>Queen</hi> our ſupreme head:</l>
+            <l>
+               <hi>Iohn Felton Traitor</hi> which aduanc't the <hi>Pope</hi> his <hi>Bul</hi> of lead.</l>
+            <l>¶ <hi>Iohn Felton Traitor</hi> which did ſéek a forren power to place:</l>
+            <l>Againſt our <hi>Queen Elizabeth,</hi> high Treaſon to her grace.</l>
+            <l>¶ <hi>Iohn Felton Traitor</hi> which ſo raild againſt the <hi>Iudges</hi> graue:</l>
+            <l>
+               <hi>Iohn Felton Traitor,</hi> which denied his Iudgement for to haue.</l>
+            <l>¶ Yea if that men doo want to read the Livelles that are writ:</l>
+            <l>The pauing ſtones wil witnes bear his Treaſon to requit.</l>
+            <l>¶ His Blaſphemyes. his raging ſpite, his brainles wilful talke,</l>
+            <pb facs="tcp:173245:7"/>
+            <l>Dame <hi>Fame</hi> with <hi>Eccho</hi> ſhall refound in eu'ry caue to walke.</l>
+            <l>¶ <hi>Iohn Felton Papiſt</hi> héer was raignd, that Traiterous rebelméer:</l>
+            <l>That faithles man, that Hypocrite receiued Iudgement héer.</l>
+            <l>¶ So long as <hi>Newgate</hi> ſtands in ſight, his memory ſhall laſt:</l>
+            <l>And witnes bear what blaſphemies out of his mouth he caſt.</l>
+            <l>¶ When learned men &amp; <hi>Preachers</hi> graue be ſtowd their learned pain:</l>
+            <l>To win his Soule to <hi>Ieſus Chriſte</hi> how he did them diſdaine.</l>
+            <l>¶ How obſtinatly he did reſt in his vnſkilful minde:</l>
+            <l>That none could him perſwade to ſée he was ſo wilful blinde.</l>
+            <l>¶ That ſhall the Stones of <hi>Newgate</hi> tel, if <hi>Papiſts</hi> would denye:</l>
+            <l>And how he did aduaunce the <hi>Pope</hi> whiche made him ſence ſo hye.</l>
+            <l>¶ Refuſing councel of <hi>Gods</hi> Book none could perſwade his hart:</l>
+            <l>In any point to truſt the truthe wherby he ſhould conuert.</l>
+            <l>¶ The ſtayers there in morne can tel how <hi>Preachers</hi> did exhort:</l>
+            <l>That he would change his fooliſh minde <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Chriſte</hi> the ſtrongeſt Fort.</l>
+            <pb facs="tcp:173245:7"/>
+            <l>¶ But ſtil he ſaid, I am right wel perſwaded ſure I:</l>
+            <l>And as I am perſwaded, ſo I mene in that to dye.</l>
+            <l>¶ In <hi>Chriſte</hi> if his perſwaſion were no dout there was no ſhame:</l>
+            <l>But that vnto the <hi>Church</hi> of <hi>GOD</hi> he might haue colde the ſame.</l>
+            <l>¶ For <hi>(Corde creditur)</hi> ſaith <hi>Paule</hi> with hart to think makes iuſt:</l>
+            <l>But <hi>(Ore fit)</hi> Confeſſion is ſaluacion ſure to truſt.</l>
+            <l>¶ But his Confeſſion there did tel, what faith was in his minde:</l>
+            <l>Anto his ſauiour <hi>Ieſus Chriſte</hi> truly but ſmall to finde</l>
+            <l>But to the <hi>Pope</hi> that horned beaſt his hart was fixt ful ſure:</l>
+            <l>And it to leaue while life did laſt none could him once procure.</l>
+            <l>¶ The Draile wheron he lay faſt bound in midſt olde baily ſtréet:</l>
+            <l>Shall tel that <hi>Preachers</hi> woords for ay which then there did him méet.</l>
+            <l>¶ Oh <hi>Felton</hi> (ſaid he) now relent now dooth approche the time:</l>
+            <l>When it wilde to late for qrée for too repent thy cryme.</l>
+            <l>¶ Now yéeld to <hi>Chriſte,</hi> truſt in his blood <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the <hi>Pope</hi> and all:</l>
+            <pb facs="tcp:173245:8"/>
+            <l>Defy his <hi>Bulles</hi> and <hi>Pardons</hi> vile, which haue begun thy thrall.</l>
+            <l>¶ <hi>GOD</hi> yet dooth offer thée his grace, <hi>Chriſte Ieſus</hi> ſpredes his armes:</l>
+            <l>Yet to receiue thy ſoule to grace and to preuent thy harmes.</l>
+            <l>¶ But he as graceles héeld on ſtil in latin Prayers tho:</l>
+            <l>And gaue no eare vnto the man that did exhort him ſo.</l>
+            <l>¶ At laſt the <hi>Preacher</hi> ſaid again, oh <hi>Felton</hi> yet forſake</l>
+            <l>Thine errors blinde, by <hi>Ieſus Chriſte</hi> a perfit end to make.</l>
+            <l>¶ As thogh (ſaid he) moſte ſtoutly then, ye would the People blaſe:</l>
+            <l>And make them think I died not wel this ſaid he without maze.</l>
+            <l>¶ So may they think (quod he again) except thou doo repent:</l>
+            <l>Becauſe againſt bothe <hi>Chriſte</hi> &amp; <hi>Queen,</hi> thy Treaſon thou haſt bent.</l>
+            <l>¶ Oh iudge me not (quod <hi>Felton</hi> then) I'le iudge (quod th'other) thée:</l>
+            <l>For <hi>Chriſte</hi> hath taught me by the fruteꝭ alwayes to iudge the Trée.</l>
+            <l>¶ While thou art héer I iudge thy déed but <hi>GOD</hi> ſhall iudge thée ay:</l>
+            <l>And if thou doo not now repent, Hel fire ſhalbe thy pay.</l>
+            <pb facs="tcp:173245:8"/>
+            <l>¶ All this benignitie of <hi>GOD,</hi> this <hi>Felton</hi> did diſpiſe:</l>
+            <l>And gaue no ear til as he ſaw the Gallows with his eyes.</l>
+            <l>¶ Which Gallow tréein <hi>Paules</hi> Chur<g ref="char:EOLhyphen"/>che yard ſhall tel the endles ſhame:</l>
+            <l>Of <hi>Felton</hi> there for Treaſon hangd to peril of his name.</l>
+            <l>¶ And eke the Grou<g ref="char:cmbAbbrStroke">̄</g>d ſhall witnes bear how Conſcience his was vrged:</l>
+            <l>By <hi>Preachers,</hi> which by truthe did hope his hart then to haue purged.</l>
+            <l>¶ But <hi>GOD</hi> (I think) had the<g ref="char:cmbAbbrStroke">̄</g> ſhut vp the bowelles of his grace:</l>
+            <l>To him, whoſe ſtubburn hart before refuſde truthe to imbrace.</l>
+            <l>¶ For <hi>Miſerere</hi> on his knées all trembling he did ſay:</l>
+            <l>But ſoftly to him ſelf that few could hear what he did pray.</l>
+            <l>¶ Belike he thought as <hi>Papiſts</hi> doo, the Latin to excel:</l>
+            <l>And ſo he thought his prayer ſaid therin to be ful wel.</l>
+            <l>¶ For he did neuer once deſire <hi>Gods</hi> people to aſſiſt</l>
+            <l>Him in his prayers he then made, but did euen as he liſt.</l>
+            <l>¶ Much les then to repent his fall and turn to <hi>GOD</hi> by grace:</l>
+            <pb facs="tcp:173245:9"/>
+            <l>On Ladder he gan ſpake alowd, maintaining of his cace.</l>
+            <l>¶ And purg'd his hart of Treaſon quite that euer it was cléer:</l>
+            <l>Which when the woorthy <hi>Sherif</hi> heard, he ſaid that all might hear.</l>
+            <l>¶ <hi>Felton,</hi> a more malicious feat of Treaſon neuer was:</l>
+            <l>Then thou a <hi>Traitor</hi> ra<g ref="char:cmbAbbrStroke">̄</g>k haſt wrought and falſly brought to paſſe.</l>
+            <l>¶ Then was he hanged vp a while, in what a cace <hi>GOD</hi> knowes:</l>
+            <l>Such as haue iudgement in the act, I leaue the end to thoſe.</l>
+            <l>¶ Cut down he was and liu'd again, but after ſpake not much:</l>
+            <l>For why? the <hi>Executioner</hi> ſeru'd him but a <hi>Traitors</hi> tuch.</l>
+            <l>¶ So no good ſigne in life or death of any Chriſtian minde:</l>
+            <l>But as he liu'd (I ſay) he died a paruerſt <hi>Papiſt</hi> blinde.</l>
+            <l>¶ But this may make the <hi>Papiſts</hi> ioy, that they had one ſo ſtout:</l>
+            <l>For their Relgion and their looue, to paſſe ſuch torments out:</l>
+            <l>¶ But let them ſtay, Religion was no cauſe why he ſo died:</l>
+            <l>But ſure becauſe the Engliſh lawes a <hi>Traitor</hi> rank him fried.</l>
+            <pb facs="tcp:173245:9"/>
+            <l>¶ He would haue made Religion his plea when he was brought</l>
+            <l>To his examination, but that preuaild him nought.</l>
+            <l>¶ For his Religion hey had not to dele with him at all:</l>
+            <l>But for high Treaſon he was iudged, in midſt of the <hi>GuiIde Hall.</hi>
+            </l>
+            <l>¶ And when he ſaw Religious ſcuſe could not his torment ſtay:</l>
+            <l>But that he muſt by force of Law to Traitors death obey.</l>
+            <l>¶ Such Sprite him led as in him was moſte wilfully to ſtand</l>
+            <l>Againſt <hi>Gods</hi> truthe whiche now is preacht throughout this <hi>Britain</hi> La<g ref="char:cmbAbbrStroke">̄</g>d.</l>
+            <l>¶ So, ſo mtime <hi>GOD</hi> for ſinners ſakes dooth giue the Deuil power:</l>
+            <l>To holde mens mindes in error faſt, that he ſhould them deuoure.</l>
+            <l>¶ And <hi>Sathan</hi> is ſo falſe him ſelf that he can ſoon infect</l>
+            <l>All ſuch with vile <hi>Hypocriſie</hi> whom <hi>GOD</hi> wil ſo reiect.</l>
+            <l>¶ But ſure I think if Treaſon has not brought him to his death:</l>
+            <l>Religion neuer was ſo déer to him as t'end his breth.</l>
+            <l>¶ For neuer yet was heard or ſéen for ſuch Religions ſake:</l>
+            <pb facs="tcp:173245:10"/>
+            <l>That any only haue béen brought to dye at Block or Stake.</l>
+            <l>¶ Ful many of that godles ſect haue béen attainted ſure:</l>
+            <l>And haue for Treaſon ſuffred ſmarts as Law dooth right procure.</l>
+            <l>¶ And haue in iudgement and in death as deſtitute of grace:</l>
+            <l>Continewd as this <hi>Felton</hi> did which makes me rue his cace.</l>
+            <l>¶ For ſure his bodyes death I nought at all did then lament:</l>
+            <l>But death of body and of ſouls dooth make my hart relent.</l>
+            <l>¶ Beware ye papiſts all take héed I read you yet beware:</l>
+            <l>And caſt all <hi>Popery</hi> from your harts take héed of helliſh rore.</l>
+            <l>¶ And if you wil not, yet be true to <hi>GOD</hi> and our good <hi>Queen:</hi>
+            </l>
+            <l>I pray to <hi>GOD</hi> that all your endes as <hi>Feltons</hi> may be ſéen.</l>
+            <l>¶ And <hi>GOD</hi> ſaue <hi>Queen Elizabeth</hi> from <hi>Papiſts</hi> wil and power:</l>
+            <l>That ſharpned ſwoord by <hi>Goſpelles</hi> force may all her Foes deuoure.</l>
+            <closer>Amen.</closer>
+            <closer>
+               <signed>ꝙ T. Knel. Iuni.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
